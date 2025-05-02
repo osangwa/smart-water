@@ -10,8 +10,8 @@ from tensorflow.keras.layers import LSTM, Dense
 from tensorflow.keras.optimizers import Adam
 
 # === Config ===
-CHANNEL_ID = '2945781'
-READ_API_KEY = 'JP6Y6XAP27A2XFYDX'
+CHANNEL_ID = '2501725'
+READ_API_KEY = 'JMHIQT5X1F9HCM95'
 OUTLET_FIELD = 'field2'
 FORECAST_PATH = 'forecast.json'
 NUM_RESULTS = 2000
